@@ -98,7 +98,19 @@ I am preparing for remote cybersecurity opportunities in:
 - Third-Party Risk Management
 - Critical-Infrastructure Cybersecurity Risk
 
-My long-term objective is to combine operational experience, regulatory discipline, and cybersecurity expertise to help organizations identify, communicate, prioritize, and reduce cybersecurity risk.
+## Career Objective
+
+Seeking remote opportunities in:
+
+- Cybersecurity GRC
+- Cybersecurity Risk Management
+- Information Security Compliance
+- Security Controls Assessment
+- Third-Party Risk Management
+- Critical Infrastructure Cybersecurity
+
+My goal is to combine operational critical-infrastructure experience with cybersecurity risk and compliance expertise to help organizations identify, communicate, prioritize, and reduce cybersecurity risk.
+
 ## Operational Experience Advantage
 
 My background in municipal water and wastewater operations provides practical experience in:
