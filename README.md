@@ -99,3 +99,16 @@ I am preparing for remote cybersecurity opportunities in:
 - Critical-Infrastructure Cybersecurity Risk
 
 My long-term objective is to combine operational experience, regulatory discipline, and cybersecurity expertise to help organizations identify, communicate, prioritize, and reduce cybersecurity risk.
+## Operational Experience Advantage
+
+My background in municipal water and wastewater operations provides practical experience in:
+
+- Regulatory compliance
+- Risk-based decision making
+- Critical infrastructure operations
+- Incident response and escalation
+- Documentation and recordkeeping
+- Asset management
+- Operational resilience
+
+This perspective helps bridge business operations and cybersecurity risk management.
