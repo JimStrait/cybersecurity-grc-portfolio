@@ -112,3 +112,28 @@ My background in municipal water and wastewater operations provides practical ex
 - Operational resilience
 
 This perspective helps bridge business operations and cybersecurity risk management.
+## Core Skills
+
+### Governance & Compliance
+- Security Governance
+- Policy Development
+- Compliance Monitoring
+- Regulatory Awareness
+
+### Risk Management
+- Risk Identification
+- Risk Assessment
+- Risk Registers
+- Risk Treatment Planning
+
+### Frameworks
+- NIST Cybersecurity Framework (CSF)
+- NIST Risk Management Concepts
+- CIS Controls
+- Critical Infrastructure Security Concepts
+
+### Security Operations Knowledge
+- Network Security Fundamentals
+- Incident Response Fundamentals
+- Security Monitoring Concepts
+- Log Analysis Fundamentals
