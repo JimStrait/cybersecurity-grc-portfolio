@@ -1,6 +1,9 @@
-# Cybersecurity GRC Portfolio
+Professional Development
 
-## Governance, Risk & Compliance | Critical Infrastructure
+- Google Cybersecurity Professional Certificate
+- Microsoft Cybersecurity Analyst Professional Certificate
+- Ongoing study of cybersecurity governance, risk management, compliance, and critical-infrastructure security
+
 
 Welcome to my cybersecurity Governance, Risk, and Compliance (GRC) portfolio.
 
